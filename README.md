@@ -62,7 +62,7 @@
 <p align="left">
 
 
-<a href = "https://twitter.com/TohirbekMark"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/karamattov"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/karamattov/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "mailto:karamatov.tohirbek@gmail.com"><img src="https://img.icons8.com/fluency/344/gmail-new.png" width="48" height="48"/></a>
 <a href = "https://t.me/karamattov/"><img src="https://img.icons8.com/color/344/telegram-app--v5.png" width="48" height="48"/></a>
