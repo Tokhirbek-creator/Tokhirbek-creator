@@ -4,7 +4,7 @@
 <h3 align="center">I'm Full Stask Javascript Developer</h3>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 🔭  I’m currently working on our project **[MeTime](https://github.com/Tokhirbek-creator/MeTime-Back)**
 
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I'm learning math, play games and go to the GYM very often.**
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -42,7 +42,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
-## 📊 My Github Stats
+## My Github Stats
 
   <br/>
     
@@ -68,7 +68,7 @@
 <a href = "https://t.me/karamattov/"><img src="https://img.icons8.com/color/344/telegram-app--v5.png" width="48" height="48"/></a>
 </p>
 
-## ❤ Views and Followers
+## Views and Followers
 <a href="https://github.com/Tokhirbek-creator/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Tokhirbek-creator">
 </a>
