@@ -4,7 +4,6 @@
 <h3 align="center">I'm Full Stask Javascript Developer</h3>
 
 
-
 ## 🙋‍♂️ About Me
 
 - 🔭  I’m currently working on our project **[MeTime](https://github.com/Tokhirbek-creator/MeTime-Back)**
@@ -33,7 +32,8 @@
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/344/postgreesql.png" width="48" height="48"/> </a>
     <a href="https://cloudinary.com/" target="_blank"> <img src="https://yktoo.solutions/images/logos/cloudinary-logo.png" width="48" height="48"/> </a>
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/344/heroku.png" width="48" height="48" /> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/> </a>   
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/> </a> 
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/344/linux--v1.png" width="48" height="48"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="100" height="45"/> </a> 
     <a href="https://sequelize.org/" target="_blank"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="40" height="45"/> </a>
