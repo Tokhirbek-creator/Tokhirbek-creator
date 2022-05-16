@@ -53,8 +53,6 @@
 <br/>
 <br/>
 
-<img alt="Tokhirbek Karamatov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tokhirbek-creator&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
 <br/>
 <br/>
 
