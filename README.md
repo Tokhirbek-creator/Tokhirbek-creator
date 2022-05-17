@@ -6,15 +6,13 @@
 
 ## About Me
 
-- 🔭  I’m currently working on our project **[MeTime](https://github.com/Tokhirbek-creator/MeTime-Back)**
+-  I’m currently working on our project **[MeTime](https://github.com/Tokhirbek-creator/MeTime-Back)**
 
-- 🌱 I’m currently learning **Algorithms.**
+-  I’m currently learning **Algorithms.**
+  
+-  How to reach me **karamatov.tohirbek@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Tokhirbek-creator)**
-
-- 📫 How to reach me **karamatov.tohirbek@gmail.com**
-
-- ⚡ Fun fact **I'm learning math, play games and go to the GYM very often.**
+-  Fun fact **I'm learning math, play games and go to the GYM very often.**
 
 ## Languages and Tools:
 
