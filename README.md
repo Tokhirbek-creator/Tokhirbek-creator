@@ -6,6 +6,8 @@
 
 ## About Me
 
+-  My business card **[site](https://tokhirbek-creator.github.io/portfolio/)**
+
 -  I’m currently working on our project **[MeTime](https://github.com/Tokhirbek-creator/MeTime-Back)**
 
 -  I’m currently learning **Algorithms.**
