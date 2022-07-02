@@ -14,8 +14,6 @@
   
 -  How to reach me **karamatov.tohirbek@gmail.com**
 
--  Fun fact **I'm learning math, play games and go to the GYM very often.**
-
 ## Languages and Tools:
 
 <p align="left"> 
