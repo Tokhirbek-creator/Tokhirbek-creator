@@ -20,16 +20,21 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/344/typescript.png" width="48" height="48"/></a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/344/docker.png" width="48" height="48"/> </a>
+    <a href="https://redis.io/" target="_blank"> <img src="https://img.icons8.com/color/344/redis.png" width="48" height="48"/> </a>
+    <a href="https://clickhouse.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" width="43" height="43"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/344/mongodb.png" width="48" height="48"/> </a> 
+    <a style="padding-right:8px;" href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/344/graphql.png" width="48" height="48"/> </a> 
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/344/postgreesql.png" width="48" height="48"/> </a>
     <a href="https://cloudinary.com/" target="_blank"> <img src="https://yktoo.solutions/images/logos/cloudinary-logo.png" width="48" height="48"/> </a>
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/344/heroku.png" width="48" height="48" /> </a> 
+    <a href="https://vercel.com/" target="_blank"> <img src="https://img.icons8.com/material-sharp/344/verge.png" width="48" height="48" /> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/344/linux--v1.png" width="48" height="48"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
