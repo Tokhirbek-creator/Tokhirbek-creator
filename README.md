@@ -27,6 +27,7 @@
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/344/docker.png" width="48" height="48"/> </a>
     <a href="https://redis.io/" target="_blank"> <img src="https://img.icons8.com/color/344/redis.png" width="48" height="48"/> </a>
     <a href="https://clickhouse.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" width="43" height="43"/> </a>
+    <a style="padding-right:8px;" href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/344/firebase.png" width="48" height="48"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/344/mongodb.png" width="48" height="48"/> </a> 
