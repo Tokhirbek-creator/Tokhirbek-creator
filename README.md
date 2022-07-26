@@ -1,6 +1,6 @@
 ![preview2](https://user-images.githubusercontent.com/76901834/168906876-8f21dd56-558d-417a-bd59-6fbf57e6aea3.gif)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">, I'm Tokhirbek</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">, I'm Tokhir</h1>
 <h3 align="center">I'm Full Stask Javascript Developer</h3>
 
 
