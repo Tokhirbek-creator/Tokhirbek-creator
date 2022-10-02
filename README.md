@@ -42,6 +42,10 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="100" height="45"/> </a> 
     <a href="https://sequelize.org/" target="_blank"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="40" height="45"/> </a>
     <a href="https://jestjs.io/" target="_blank"> <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="40" height="40"/> </a>
+    <a href="https://bitbucket.org/" target="_blank"> <img src="https://img.icons8.com/color/344/bitbucket.png" width="48" height="48"/> </a>
+    <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/76901834/193477152-7c228ba4-a36f-4746-b469-6667f9712025.gif" width="43" height="43"/> </a>
+
+
 </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
