@@ -64,18 +64,6 @@
 <br/>
 <br/>
 
-## ✉️ Connect with me
-<p align="left">
-
-
-<a href = "https://twitter.com/karamattov"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/karamattov"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:karamattov@gmail.com"><img src="https://img.icons8.com/fluency/344/gmail-new.png" width="48" height="48"/></a>
-<a href = "https://t.me/karamattov"><img src="https://img.icons8.com/color/344/telegram-app--v5.png" width="48" height="48"/></a>
-<a href = "https://vk.com/karamattov"><img src="https://img.icons8.com/color/344/vk-circled.png" width="48" height="48"/></a>
-
-</p>
-
 ## Views and Followers
 <a href="https://github.com/Tokhirbek-creator/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Tokhirbek-creator">
