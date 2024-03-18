@@ -10,7 +10,7 @@
 
 -  I’m currently learning **Algorithms.**
   
--  How to reach me **karamatov.tohirbek@gmail.com**
+-  How to reach me **karamatovy@mail.ru**
 
 ## Languages and Tools:
 
